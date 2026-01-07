@@ -1,0 +1,4 @@
+:root { --bg:#0b1020; --fg:#e7f0ff; }
+*{ box-sizing:border-box; }
+html,body{ height:100%; margin:0; background:var(--bg); color:var(--fg); overflow:hidden; }
+#app{ height:100%; width:100%; }
